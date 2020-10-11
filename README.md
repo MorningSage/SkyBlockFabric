@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# SkyBlock - Fabric
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This mod is more of a proof of concept heavily inspired by other mods of the same type only to help me learn about world types and generation. You may find it helpful as well.  At some point, I may finish the mod and add commands for other players in multiplayer servers, settings for easy configuration, customizable starting islands, etc.  For now, this coding exercise served its purpose and I don't plan on actually maintaining or publishing it.
 
 ## License
 
