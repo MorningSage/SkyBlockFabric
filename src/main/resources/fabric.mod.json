@@ -1,29 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "skyblockfabric",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "SkyBlock - Fabric",
+  "description": "A very simple mod that allows you to convert your game to a SkyBlock world.",
   "authors": [
     "Me!"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/MorningSage/SkyBlockFabric"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/skyblockfabric/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "morningsage.skyblockfabric.SkyBlockFabric"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "skyblockfabric.mixins.json"
   ],
 
   "depends": {
